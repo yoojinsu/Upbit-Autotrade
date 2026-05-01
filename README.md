@@ -3,7 +3,7 @@
 비트코인, 이더리움, 리플을 대상으로 변동성 돌파 전략을 지표와 조합하여 자동매매하는 프로그램입니다.
 
 <p align="center">
-  <img src="./image.PNG" width="100%" />
+  <img src="./image.png" width="100%" />
 </p>
 
 ## 🛠️ 주요 기능
