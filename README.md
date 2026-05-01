@@ -77,7 +77,7 @@ python main.py
 ---
 
 ## 업비트 API 생성
-업비트 홈페이지를 참고해주세요. 
+업비트 홈페이지를 참고해 주세요. 
 https://docs.upbit.com/kr/docs/api-key
 
 ---
