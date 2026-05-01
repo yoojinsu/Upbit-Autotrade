@@ -1,0 +1,12 @@
+websockets
+PyQt5
+ujson
+pandas
+numpy
+pyupbit
+matplotlib
+requests
+openpyxl
+python-dotenv
+ta-lib
+pyqtgraph
