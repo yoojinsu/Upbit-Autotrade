@@ -63,8 +63,11 @@
 아래 순서대로 명령어를 실행해 주세요.
 ```bash
 git clone https://github.com/yoojinsu/Upbit-Autotrade.git
+
 cd Upbit-Autotrade
+
 pip install -r requirements.txt
+
 python main.py
 ```
 ---
