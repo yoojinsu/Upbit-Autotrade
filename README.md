@@ -2,7 +2,9 @@
 
 비트코인, 이더리움, 리플을 대상으로 변동성 돌파 전략을 지표와 조합하여 자동매매하는 프로그램입니다.
 
-⚠️충분한 백테스팅 후 진입 필수⚠️ 백테스팅 프로그램 > https://github.com/yoojinsu/Upbit-Backtest
+⚠️충분한 백테스팅 후 진입 필수⚠️ 
+
+백테스팅 프로그램 > https://github.com/yoojinsu/Upbit-Backtest
 
 <p align="center">
   <img src="./image.png" width="100%" />
